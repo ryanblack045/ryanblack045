@@ -1,11 +1,11 @@
-## Hello world, I'm Ryan Black 😃 :smiley:
+## Hello world, I'm Ryan Black :smiley:
 
 <img align="right" alt="Cover Photo" src="https://drama-deets.s3.amazonaws.com/ryan-treehugger.jpg" width="400" />
 
 ### I'm a passionate fullstack web developer with a massive curious mind.
 
 - 🔭&nbsp; I'm currently practicing DSA.
-- 📱 :iphone:; I'm currently starting to learn Swift
+- :iphone: I'm currently starting to learn Swift
 - 💻 &nbsp; I’m looking to collaborate on any exciting open source project.
 - 💬 &nbsp; Ask me about anything!
 - ⚡&nbsp; Fun fact: I love to travel.
