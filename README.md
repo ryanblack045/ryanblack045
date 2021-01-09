@@ -5,7 +5,7 @@
 ### I'm a passionate fullstack web developer with a massive curious mind.
 
 - 🔭&nbsp; I'm currently practicing DSA.
-- :iphone&nbsp: I'm currently starting to learn Swift
+- :iphone: I'm currently starting to learn Swift
 - 💻 &nbsp; I’m looking to collaborate on any exciting open source project.
 - 💬 &nbsp; Ask me about anything!
 - ⚡&nbsp; Fun fact: I love to travel.
