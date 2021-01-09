@@ -1,6 +1,6 @@
 ## Hello world, I'm Ryan Black :smiley:
 
-<img align="right" alt="Cover Photo" src="https://drama-deets.s3.amazonaws.com/ryan-treehugger.jpg" height="400" width="400" />
+<img align="right" alt="Cover Photo" src="https://drama-deets.s3.amazonaws.com/ryan-treehugger.jpg"/>
 
 ### I'm a passionate fullstack web developer with a massive curious mind.
 
@@ -17,8 +17,6 @@
 
 Check out my portfolio [here](https://yukamoribe.com/).
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smilelk4&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Cover Photo](https://drama-deets.s3.amazonaws.com/ryan-treehugger.jpg)
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
