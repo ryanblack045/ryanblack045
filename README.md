@@ -1,6 +1,6 @@
 ## Hello world, I'm Ryan Black :smiley:
 
-<img align="right" alt="Cover Photo" src="https://drama-deets.s3.amazonaws.com/ryanprofile.jpeg" height="400" width="400" />
+<img align="right" alt="Cover Photo" src="https://drama-deets.s3.amazonaws.com/ryan-treehugger.jpg" height="400" width="400" />
 
 ### I'm a passionate fullstack web developer with a massive curious mind.
 
