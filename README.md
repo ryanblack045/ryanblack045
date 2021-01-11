@@ -2,9 +2,9 @@
 
 <img align="right" alt="Cover Photo" src="https://drama-deets.s3.amazonaws.com/ryan-treehugger.jpg"/>
 
-### I'm a passionate fullstack web developer with a massive curious mind.
+### I'm a software engineer with a passion for problem solving, puzzels and the great out doors.
 
-- :cd:; Check out my portfolio [here](https://ryan-black.me/).
+- :cd: Check out my portfolio [here](https://ryan-black.me/).
 - :evergreen_tree:&nbsp; I'm currently practicing DSA.
 - :iphone: I'm currently starting to learn Swift
 - 💻 &nbsp; I’m looking to collaborate on any exciting open source project.
@@ -14,8 +14,6 @@
 📫 &nbsp; Please feel free to contact me.<br>
 [![Linkedin: RyanBlack](https://img.shields.io/badge/-RyanBlack-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryanblack045/)](https://www.linkedin.com/in/ryanblack045/)
 <a href="mailto:ryanblack045@gmail.com">![E-Mail](https://img.shields.io/badge/email-2a8?style=flat-square&logo=gmail&logoColor=white)</a>
-
-Check out my portfolio [here](https://ryan-black.me/).
 
 [linkedin]:https://www.linkedin.com/in/ryanblack045/
 
