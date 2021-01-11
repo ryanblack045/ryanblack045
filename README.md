@@ -4,18 +4,17 @@
 
 ### I'm a passionate fullstack web developer with a massive curious mind.
 
-- 🔭&nbsp; I'm currently practicing DSA.
+- :evergreen_tree:&nbsp; I'm currently practicing DSA.
 - :iphone: I'm currently starting to learn Swift
 - 💻 &nbsp; I’m looking to collaborate on any exciting open source project.
 - 💬 &nbsp; Ask me about anything!
-- ⚡&nbsp; Fun fact: I love to travel.
+- :video_game:&nbsp; Fun fact: I worked on Red Dead Redemption 2.
 
 📫 &nbsp; Please feel free to contact me.<br>
-[![Linkedin: yukamoribe](https://img.shields.io/badge/-RyanBlack-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryanblack045/)](https://www.linkedin.com/in/ryanblack045/)
-<a href="mailto:yukamoribe@gmail.com">![E-Mail](https://img.shields.io/badge/email-2a8?style=flat-square&logo=gmail&logoColor=white)</a>
-[![GitHub smilelk4](https://img.shields.io/github/followers/smilelk4?label=follow&style=social)](https://github.com/smilelk4)
+[![Linkedin: RyanBlack](https://img.shields.io/badge/-RyanBlack-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryanblack045/)](https://www.linkedin.com/in/ryanblack045/)
+<a href="mailto:ryanblack045@gmail.com">![E-Mail](https://img.shields.io/badge/email-2a8?style=flat-square&logo=gmail&logoColor=white)</a>
 
-Check out my portfolio [here](https://yukamoribe.com/).
+Check out my portfolio [here](https://ryan-black.me/).
 
 ### Languages and Tools:
 
