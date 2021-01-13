@@ -1,4 +1,4 @@
-## Hello world, I'm Ryan Black :smiley:
+## Hello world, I'm Ryan! :smiley:
 
 <img align="right" alt="Cover Photo" src="https://drama-deets.s3.amazonaws.com/ryan-treehugger.jpg"/>
 
