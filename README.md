@@ -6,7 +6,7 @@
 
 - :cd: Check out my portfolio [here](https://ryan-black.me/).
 - :evergreen_tree:&nbsp; I am currently practicing DSA and being TA at appAcademy by day...
-- :male_detective: and refactoring a project to make it as modular as possible by night.
+- :male_detective:&nbsp; and refactoring a project to make it as modular as possible by night.
 - 💬 &nbsp; Ask me about anything!
 - :video_game:&nbsp; Fun fact: I worked on Red Dead Redemption 2.
 
