@@ -5,9 +5,8 @@
 ### I'm a software engineer with a passion for problem solving, puzzels and the great out doors.
 
 - :cd: Check out my portfolio [here](https://ryan-black.me/).
-- :evergreen_tree:&nbsp; I'm currently practicing DSA.
-- :iphone: I'm currently starting to learn Swift
-- 💻 &nbsp; I’m looking to collaborate on any exciting open source project.
+- :evergreen_tree:&nbsp; I am currently practicing DSA and being TA at appAcademy by day...
+- :male_detective: and refactoring a project to make it as modular as possible by night.
 - 💬 &nbsp; Ask me about anything!
 - :video_game:&nbsp; Fun fact: I worked on Red Dead Redemption 2.
 
