@@ -5,8 +5,8 @@
 ### I'm a software engineer with a passion for problem solving, puzzels and the great out doors.
 
 - :cd: Check out my portfolio [here](https://ryan-black.me/).
-- :evergreen_tree:&nbsp; I am currently practicing DS and algorithms/being a TA at appAcademy by day...
-- :male_detective:&nbsp; and refactoring a project to make it as modular as possible by night.
+- :evergreen_tree:&nbsp; I am currently working as a full stack software dev for Quikly by day...
+- :male_detective:&nbsp; and learning Ruby/Rails by night.
 - 💬 &nbsp; Ask me about anything!
 - :video_game:&nbsp; Fun fact: I worked on Red Dead Redemption 2.
 
