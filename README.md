@@ -2,7 +2,7 @@
 
 <img align="right" alt="Cover Photo" src="https://drama-deets.s3.amazonaws.com/ryan-treehugger.jpg"/>
 
-### I'm a software engineer with a passion for problem solving, puzzels and the great out doors.
+### I'm a software engineer with a passion for problem solving, puzzels and the great outdoors.
 
 - :cd: Check out my portfolio [here](https://ryan-black.me/).
 - :evergreen_tree:&nbsp; I am currently working as a full stack software dev for Quikly by day...
